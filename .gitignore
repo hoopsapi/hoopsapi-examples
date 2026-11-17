@@ -1,0 +1,2 @@
+*.ndjson.gz
+__pycache__/
