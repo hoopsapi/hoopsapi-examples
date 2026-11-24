@@ -58,6 +58,8 @@ Competition names come from `GET /api/v1/competitions`.
 
 ## Use it from an AI assistant (MCP)
 
+[![HoopsAPI MCP connector](https://glama.ai/mcp/connectors/com.hoopsapi/basketball-odds/badges/score.svg)](https://glama.ai/mcp/connectors/com.hoopsapi/basketball-odds)
+
 HoopsAPI has a remote MCP server at `https://hoopsapi.com/mcp`, using the same API key. In Claude Code:
 
 ```bash
